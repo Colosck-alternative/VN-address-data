@@ -1,253 +1,316 @@
 [
     {
+        "stt": 1,
         "province_name": "An Giang",
         "type": "Tỉnh"
     },
     {
+        "stt": 2,
         "province_name": "Bà Rịa - Vũng Tàu",
         "type": "Tỉnh"
     },
     {
+        "stt": 3,
         "province_name": "Bắc Giang",
         "type": "Tỉnh"
     },
     {
+        "stt": 4,
         "province_name": "Bắc Kạn",
         "type": "Tỉnh"
     },
     {
+        "stt": 5,
         "province_name": "Bạc Liêu",
         "type": "Tỉnh"
     },
     {
+        "stt": 6,
         "province_name": "Bắc Ninh",
         "type": "Tỉnh"
     },
     {
+        "stt": 7,
         "province_name": "Bến Tre",
         "type": "Tỉnh"
     },
     {
+        "stt": 8,
         "province_name": "Bình Dương",
         "type": "Tỉnh"
     },
     {
+        "stt": 9,
         "province_name": "Bình Phước",
         "type": "Tỉnh"
     },
     {
+        "stt": 10,
         "province_name": "Bình Thuận",
         "type": "Tỉnh"
     },
     {
+        "stt": 11,
         "province_name": "Bình Định",
         "type": "Tỉnh"
     },
     {
+        "stt": 12,
         "province_name": "Cà Mau",
         "type": "Tỉnh"
     },
     {
+        "stt": 13,
         "province_name": "Cần Thơ",
         "type": "Thành phố"
     },
     {
+        "stt": 14,
         "province_name": "Cao Bằng",
         "type": "Tỉnh"
     },
     {
+        "stt": 15,
         "province_name": "Gia Lai",
         "type": "Tỉnh"
     },
     {
+        "stt": 16,
         "province_name": "Hà Giang",
         "type": "Tỉnh"
     },
     {
+        "stt": 17,
         "province_name": "Hà Nam",
         "type": "Tỉnh"
     },
     {
+        "stt": 18,
         "province_name": "Hà Nội",
         "type": "Thành phố"
     },
     {
+        "stt": 19,
         "province_name": "Hà Tĩnh",
         "type": "Tỉnh"
     },
     {
+        "stt": 20,
         "province_name": "Hải Dương",
         "type": "Tỉnh"
     },
     {
+        "stt": 21,
         "province_name": "Hải Phòng",
         "type": "Thành phố"
     },
     {
+        "stt": 22,
         "province_name": "Hậu Giang",
         "type": "Tỉnh"
     },
     {
+        "stt": 23,
         "province_name": "Hồ Chí Minh",
         "type": "Thành phố"
     },
     {
+        "stt": 24,
         "province_name": "Hoà Bình",
         "type": "Tỉnh"
     },
     {
+        "stt": 25,
         "province_name": "Hưng Yên",
         "type": "Tỉnh"
     },
     {
+        "stt": 26,
         "province_name": "Khánh Hòa",
         "type": "Tỉnh"
     },
     {
+        "stt": 27,
         "province_name": "Kiên Giang",
         "type": "Tỉnh"
     },
     {
+        "stt": 28,
         "province_name": "Kon Tum",
         "type": "Tỉnh"
     },
     {
+        "stt": 29,
         "province_name": "Lai Châu",
         "type": "Tỉnh"
     },
     {
+        "stt": 30,
         "province_name": "Lâm Đồng",
         "type": "Tỉnh"
     },
     {
+        "stt": 31,
         "province_name": "Lạng Sơn",
         "type": "Tỉnh"
     },
     {
+        "stt": 32,
         "province_name": "Lào Cai",
         "type": "Tỉnh"
     },
     {
+        "stt": 33,
         "province_name": "Long An",
         "type": "Tỉnh"
     },
     {
+        "stt": 34,
         "province_name": "Nam Định",
         "type": "Tỉnh"
     },
     {
+        "stt": 35,
         "province_name": "Nghệ An",
         "type": "Tỉnh"
     },
     {
+        "stt": 36,
         "province_name": "Ninh Bình",
         "type": "Tỉnh"
     },
     {
+        "stt": 37,
         "province_name": "Ninh Thuận",
         "type": "Tỉnh"
     },
     {
+        "stt": 38,
         "province_name": "Phú Thọ",
         "type": "Tỉnh"
     },
     {
+        "stt": 39,
         "province_name": "Phú Yên",
         "type": "Tỉnh"
     },
     {
+        "stt": 40,
         "province_name": "Quảng Bình",
         "type": "Tỉnh"
     },
     {
+        "stt": 41,
         "province_name": "Quảng Nam",
         "type": "Tỉnh"
     },
     {
+        "stt": 42,
         "province_name": "Quảng Ngãi",
         "type": "Tỉnh"
     },
     {
+        "stt": 43,
         "province_name": "Quảng Ninh",
         "type": "Tỉnh"
     },
     {
+        "stt": 44,
         "province_name": "Quảng Trị",
         "type": "Tỉnh"
     },
     {
+        "stt": 45,
         "province_name": "Sóc Trăng",
         "type": "Tỉnh"
     },
     {
+        "stt": 46,
         "province_name": "Sơn La",
         "type": "Tỉnh"
     },
     {
+        "stt": 47,
         "province_name": "Tây Ninh",
         "type": "Tỉnh"
     },
     {
+        "stt": 48,
         "province_name": "Thái Bình",
         "type": "Tỉnh"
     },
     {
+        "stt": 49,
         "province_name": "Thái Nguyên",
         "type": "Tỉnh"
     },
     {
+        "stt": 50,
         "province_name": "Thanh Hóa",
         "type": "Tỉnh"
     },
     {
+        "stt": 51,
         "province_name": "Thừa Thiên Huế",
         "type": "Tỉnh"
     },
     {
+        "stt": 52,
         "province_name": "Tiền Giang",
         "type": "Tỉnh"
     },
     {
+        "stt": 53,
         "province_name": "Trà Vinh",
         "type": "Tỉnh"
     },
     {
+        "stt": 54,
         "province_name": "Tuyên Quang",
         "type": "Tỉnh"
     },
     {
+        "stt": 55,
         "province_name": "Vĩnh Long",
         "type": "Tỉnh"
     },
     {
+        "stt": 56,
         "province_name": "Vĩnh Phúc",
         "type": "Tỉnh"
     },
     {
+        "stt": 57,
         "province_name": "Yên Bái",
         "type": "Tỉnh"
     },
     {
+        "stt": 58,
         "province_name": "Đà Nẵng",
         "type": "Thành phố"
     },
     {
+        "stt": 59,
         "province_name": "Đắk Lắk",
         "type": "Tỉnh"
     },
     {
+        "stt": 60,
         "province_name": "Đắk Nông",
         "type": "Tỉnh"
     },
     {
+        "stt": 61,
         "province_name": "Điện Biên",
         "type": "Tỉnh"
     },
     {
+        "stt": 62,
         "province_name": "Đồng Nai",
         "type": "Tỉnh"
     },
     {
+        "stt": 63,
         "province_name": "Đồng Tháp",
         "type": "Tỉnh"
     }
